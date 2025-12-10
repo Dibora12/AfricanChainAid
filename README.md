@@ -1,7 +1,7 @@
 
-# 🌍 CrisisChain – Blockchain Powered Aid Distribution For Africa
+# 🌍 AfricanChainAid – Blockchain Powered Aid Distribution For Africa
 
-**CrisisChain** is a decentralized web app platform designed to bring **transparency, fairness, and security** to humanitarian aid distribution across Africa. Built on the privacy focused **Midnight blockchain**, it enables NGOs, donors, governments, and communities to collaborate in a **trustless, verifiable ecosystem** where aid flows directly to verified recipients with no corruption or mismanagement.
+**AfricanChainAid** is a decentralized web app platform designed to bring **transparency, fairness, and security** to humanitarian aid distribution across Africa. Built on the privacy focused **cardano blockchain**, it enables NGOs, donors, governments, and communities to collaborate in a **trustless, verifiable ecosystem** where aid flows directly to verified recipients with no corruption or mismanagement.
 
 ---
 
@@ -36,7 +36,7 @@ Too often, aid gets lost before reaching the people who need it most. CrisisChai
 | Blockchain       | Midnight (Compact Smart Contracts)   |
 | Database         | PostgreSQL (via Supabase)            |
 | Authentication   | Supabase Auth with JWT               |
-| Wallet           | Lace Wallet                          |
+| Wallet           | cardano                          |
 | Map Integration  | Leaflet.js / Mapbox                  |
 
 ---
@@ -150,15 +150,14 @@ See the `LICENSE` file for full details.
 
 ## 📬 Contact
 
-**Project Lead**: Dibora Shibeshi 
-**Team**: Leyuthega Abebaw & Hana Tamiru
+=
 **Location**: Ethiopia 🇪🇹  
 **Track**: Full-Stack Developer – Software Engineering/Junior Blockchain Developer
 GitHub: [@Dibora12](https://github.com/Dibora12)
 
 ---
 
-> “CrisisChain is not just code it’s a mission to restore dignity, build trust, and make sure no one is left behind.”
+> “AfricanChainAid is not just code it’s a mission to restore dignity, build trust, and make sure no one is left behind.”
 
 ### Frontend
 - Deploy to Vercel, Netlify, or similar platform
