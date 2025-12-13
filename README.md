@@ -151,10 +151,7 @@ See the `LICENSE` file for full details.
 ## 📬 Contact
 
 =
-**Location**: Ethiopia 🇪🇹  
-**Track**: Full-Stack Developer – Software Engineering/Junior Blockchain Developer
-GitHub: [@Dibora12](https://github.com/Dibora12)
-
+*
 ---
 
 > “AfricanChainAid is not just code it’s a mission to restore dignity, build trust, and make sure no one is left behind.”
